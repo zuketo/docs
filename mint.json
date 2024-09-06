@@ -47,6 +47,14 @@
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
+    {
+      "name": "SORT XYZ API Reference",
+      "openapi": "https://api.sort.xyz/docs/json",
+      "url": "api-reference",
+      "icon": "square-terminal"
+    }
+  ]
+}
   ],
   "navigation": [
     {
